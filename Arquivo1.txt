@@ -1,6 +1,6 @@
 Faculdade: Uniesp
 Curso: Ciência Da Computação
-Disciplina: Tópicos Essenciais em Programação
+Disciplina: Introdução a Programação
 Nome: Guilherme Hassem
 
 
@@ -8,10 +8,12 @@ Resposta da Lista de Exercício
 
 Questão 01
 
-
-
 Questão 02
 
+Questão 04
 
+Questão 05
 
-Questão 03
+Questão 06
+
+Questão 10
